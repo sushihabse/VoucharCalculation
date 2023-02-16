@@ -9,9 +9,9 @@
         <script src="https://code.jquery.com/jquery-3.6.3.slim.js" integrity="sha256-DKU1CmJ8kBuEwumaLuh9Tl/6ZB6jzGOBV/5YpNE2BWc=" crossorigin="anonymous"></script>
     </head>
     <body>
-        <a href="calculate.php" class="m-5">Let's go to testing page</a>
-        <a href="newcal.php" class="m-5">Let's go to testing page</a>
-        <a href="copyNewCal.php" class="m-5">Let's go to testing page</a>
+        <a href="voucher1.php" class="m-5">Let's go Voucher 1 Page</a>
+        <a href="voucher2.php" class="m-5">Let's go to Voucher 2 Page</a>
+        <a href="backupvoucher.php" class="m-5">Let's go to Bach Up Page</a>
         <section class="sales_order">
             <div class="container-fluid">
                 <div class="sales-order-title">
